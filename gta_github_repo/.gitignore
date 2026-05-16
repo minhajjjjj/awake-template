@@ -1,0 +1,19 @@
+# Build
+/build
+/dist
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+
+# Unreal
+Binaries/
+DerivedDataCache/
+
+# Godot
+.import/
+
+# OS
+.DS_Store
+Thumbs.db
